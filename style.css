@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+.bir-btn {
+    width: 274px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 32px;
+    border: 4px solid #FFF;
+    background: #F53627;
+    box-shadow: 0px 7px 12px 0px rgba(0, 0, 0, 0.25);
+    margin-top: 53px;
+    color: white;
+}
+#uch{
+    background-image: url(img/KFC\ brat.png);
+    background: lightgray 50%;
+}
+
+
+.narx{
+    transform: rotate(-12.159deg);
+}
+
+header{
+    font-family: Inter;
+
+}
+
+#bir{
+    font-family: Inter;
+
+}
+
+#ikki{
+    font-family: Inter;
+
+}
+
+#uch{
+    font-family: Inter;
+}
+
+.tortinchi-content{
+    font-family: Inter;
+
+}
+
+.beshinchi-content{
+    font-family: Manrope;
+
+}
